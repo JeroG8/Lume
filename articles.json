@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Cómo construir una rutina de skincare desde cero",
+    "excerpt": "¿Por dónde empezar cuando no sabes nada de cuidado de piel? Esta guía paso a paso te lleva de cero a una rutina completa y efectiva.",
+    "content": "<p>Empezar con el skincare puede sentirse abrumador: hay cientos de productos, ingredientes, y consejos contradictorios en internet. Pero la verdad es que una rutina efectiva no necesita ser complicada. Aquí te lo explicamos todo.</p><h2>Los 3 pasos fundamentales</h2><p>Antes de agregar cualquier producto extra, asegúrate de tener estos tres pasos bien establecidos:</p><ul><li><strong>Limpieza:</strong> Elimina suciedad, exceso de grasa y maquillaje sin agredir la barrera cutánea. Usa un limpiador suave, adecuado para tu tipo de piel.</li><li><strong>Hidratación:</strong> Toda piel necesita humectarse, incluso la grasa. Elige una textura ligera o más densa según tu tipo de piel y clima.</li><li><strong>Protección solar:</strong> El paso más importante que la mayoría omite. El FPS previene el envejecimiento prematuro, manchas e incluso cáncer de piel. Úsalo cada mañana, llueva o truene.</li></ul><h2>¿Cuándo agregar más productos?</h2><p>Una vez que tu rutina básica esté consolidada (aproximadamente 4 semanas), puedes incorporar activos como vitamina C por las mañanas o retinol en la noche. Introduce un producto nuevo cada vez y observa cómo reacciona tu piel antes de sumar otro.</p><h2>Errores comunes al empezar</h2><ul><li>Usar demasiados productos desde el principio</li><li>Cambiar de rutina antes de darle tiempo al producto (mínimo 4–6 semanas)</li><li>No usar protector solar a diario</li><li>Exfoliar en exceso pensando que más es mejor</li></ul><p>Recuerda: la constancia supera a los productos más costosos. Una rutina sencilla aplicada todos los días da mejores resultados que diez pasos que haces una vez por semana.</p>",
+    "category": "Guías",
+    "date": "2025-04-15",
+    "image": "assets/blog1.jpg",
+    "author": "Equipo Lumé"
+  },
+  {
+    "id": 2,
+    "title": "Vitamina C: el ingrediente estrella que transforma tu piel",
+    "excerpt": "Uno de los activos más respaldados por la ciencia. Te contamos cómo funciona, qué concentración buscar y cómo incorporarlo correctamente a tu rutina.",
+    "content": "<p>La vitamina C es probablemente el ingrediente más estudiado en cosmética y por buenas razones. Sus beneficios van desde iluminar el tono hasta estimular la producción de colágeno, pasando por proteger la piel del daño oxidativo ambiental.</p><h2>¿Qué hace exactamente la vitamina C?</h2><ul><li><strong>Antioxidante potente:</strong> Neutraliza radicales libres generados por la contaminación y los rayos UV.</li><li><strong>Uniformiza el tono:</strong> Inhibe la tirosinasa, la enzima responsable de la hiperpigmentación y las manchas oscuras.</li><li><strong>Estimula el colágeno:</strong> Es cofactor esencial en la síntesis de colágeno, mejorando firmeza y elasticidad.</li><li><strong>Potencia el FPS:</strong> Usada bajo el protector solar amplifica su efecto protector.</li></ul><h2>¿Qué concentración elegir?</h2><p>Las concentraciones entre 10% y 20% son las más efectivas. Por debajo del 10% los resultados son mínimos; por encima del 20% aumenta la posibilidad de irritación sin beneficio adicional proporcional. Nuestro Sérum Vitamina C Lumé trabaja al 15%, el punto dulce entre eficacia y tolerabilidad.</p><h2>Cómo usarlo correctamente</h2><p>Aplícalo siempre por la mañana, sobre piel limpia y seca, antes de la crema hidratante y el protector solar. La vitamina C es sensible a la luz y al calor, por eso guarda tu sérum en un lugar fresco y oscuro, y desecha el producto si notas que se ha oscurecido demasiado (señal de oxidación).</p><p>La paciencia es clave: los resultados más notables suelen aparecer entre las 4 y 8 semanas de uso consistente.</p>",
+    "category": "Ingredientes",
+    "date": "2025-03-30",
+    "image": "assets/blog2.jpg",
+    "author": "Equipo Lumé"
+  },
+  {
+    "id": 3,
+    "title": "Protección solar: por qué es el paso más importante de tu rutina",
+    "excerpt": "El 90% del envejecimiento visible de la piel se debe a la exposición solar acumulada. Aquí todo lo que necesitas saber para elegir y aplicar bien tu FPS.",
+    "content": "<p>Si solo pudieras agregar un producto a tu rutina, debería ser el protector solar. No hay ningún sérum, crema ni tratamiento que compense el daño que causa la exposición solar sin protección a lo largo del tiempo.</p><h2>¿Qué daña exactamente el sol?</h2><ul><li><strong>Rayos UVB:</strong> Responsables de las quemaduras solares. El FPS en la etiqueta mide específicamente la protección contra estos rayos.</li><li><strong>Rayos UVA:</strong> Penetran más profundo, llegan hasta la dermis y son los principales responsables del envejecimiento prematuro, arrugas y manchas. Busca etiquetas que digan «amplio espectro» o «broad spectrum».</li><li><strong>Luz visible y luz azul:</strong> Pueden contribuir a la hiperpigmentación, especialmente en pieles más oscuras.</li></ul><h2>¿Qué FPS necesito?</h2><p>Se recomienda mínimo FPS 30 para uso diario, y FPS 50 si tienes piel sensible, manchas activas o pasas mucho tiempo al aire libre. La Crema Hidratante Lumé FPS 50 fue diseñada específicamente para ser cómoda de usar todos los días, sin dejar sensación grasa ni residuo blanco.</p><h2>Mitos que debes abandonar</h2><ul><li>«Solo lo uso en la playa»: el daño UV ocurre todo el año, incluso en días nublados.</li><li>«Con maquillaje FPS es suficiente»: la cantidad de maquillaje que aplicarías para obtener protección real es impráctica. Usa protector solar por separado.</li><li>«Mi piel es oscura y no me quemo»: todas las pieles se dañan con el sol, independientemente del tono. La diferencia es que el daño puede ser menos visible a corto plazo.</li></ul><p>Aplicar protector solar cada mañana es el hábito de belleza con mayor retorno a largo plazo. Tu piel de aquí a 10 años te lo agradecerá.</p>",
+    "category": "Cuidado",
+    "date": "2025-03-10",
+    "image": "assets/blog3.jpg",
+    "author": "Equipo Lumé"
+  },
+  {
+    "id": 4,
+    "title": "Piel grasa vs. piel deshidratada: aprende a distinguirlas",
+    "excerpt": "Muchas personas con piel deshidratada la confunden con piel grasa y usan los productos equivocados. Descubre cuál es tu caso real y cómo tratarlo.",
+    "content": "<p>Este es uno de los errores más comunes en skincare: confundir el tipo de piel con el estado de la piel. Entender la diferencia puede cambiar completamente tu rutina.</p><h2>Tipo de piel vs. estado de la piel</h2><p>Tu <strong>tipo de piel</strong> es genético y bastante estable: puede ser seca, grasa, mixta o normal. Tu <strong>estado de piel</strong> puede cambiar según el clima, la dieta, el estrés, los productos que usas o tu ciclo hormonal.</p><h2>¿Cómo sé si tengo piel grasa?</h2><p>La piel grasa produce exceso de sebo de forma crónica. Sus señales: brillo persistente a las pocas horas de limpiar, poros dilatados especialmente en zona T, tendencia al acné y maquillaje que se corre rápido. Origen: genético y hormonal.</p><h2>¿Cómo sé si tengo piel deshidratada?</h2><p>La deshidratación es una condición temporal: tu piel no retiene suficiente agua. Sus señales: sensación de tirantez, opacidad, líneas finas más visibles después de limpiar el rostro, y paradójicamente, puede ir acompañada de brillo porque la piel produce más sebo para compensar la falta de agua.</p><h2>Solución según tu caso</h2><ul><li><strong>Piel grasa real:</strong> Usa limpiadores suaves (no agresivos), hidratantes gel o en gel-crema, ácido salicílico para poros y evita aceites pesados.</li><li><strong>Piel deshidratada:</strong> Incorpora humectantes como el ácido hialurónico y el glicerol, reduce la exfoliación, evita limpiadores con alcohol y usa capas ligeras de hidratación.</li></ul><p>¿No sabes cuál es tu caso? Agenda un diagnóstico gratuito con nuestras especialistas. Te ayudamos a identificar exactamente qué necesita tu piel y cuál es la rutina ideal para ti.</p>",
+    "category": "Consejos",
+    "date": "2025-02-18",
+    "image": "assets/blog4.jpg",
+    "author": "Equipo Lumé"
+  },
+  {
+    "id": 5,
+    "title": "Los 6 errores más comunes en el skincare (y cómo evitarlos)",
+    "excerpt": "Desde exfoliar en exceso hasta mezclar activos incompatibles. Estos son los errores que más vemos y que pueden estar saboteando los resultados de tu rutina.",
+    "content": "<p>Tener buenas intenciones con tu piel no siempre es suficiente. Muchos de los errores más frecuentes vienen precisamente de querer hacer demasiado. Aquí los identificamos y te decimos cómo corregirlos.</p><h2>1. Exfoliar con demasiada frecuencia</h2><p>La exfoliación remueve las células muertas y mejora la textura, pero en exceso destruye la barrera cutánea. Resultado: piel reactiva, enrojecida y sensible. Máximo 2–3 veces por semana para ácidos suaves; 1 vez para los más fuertes.</p><h2>2. Cambiar de productos constantemente</h2><p>La piel necesita tiempo para adaptarse y mostrar resultados. La regla general es mínimo 4–6 semanas antes de juzgar si un producto funciona. Cambiar antes de ese tiempo es dinero y esfuerzo desperdiciado.</p><h2>3. Mezclar activos incompatibles</h2><p>Retinol + vitamina C en la misma aplicación puede irritar. Ácidos + retinol tampoco se llevan bien. Vitamina C + niacinamida en altas concentraciones puede generar enrojecimiento temporal. Aprende qué va con qué, o sepáralos entre mañana y noche.</p><h2>4. Limpiar el rostro con agua muy caliente</h2><p>El agua caliente dilata los poros y elimina los aceites naturales que protegen la piel. Usa agua tibia o fría para limpiar.</p><h2>5. Omitir el cuello y el escote</h2><p>Son zonas igual de expuestas al sol y al paso del tiempo, pero las olvidamos. Todo lo que aplicas en el rostro debe bajar hasta el pecho.</p><h2>6. Dormir sin limpiar el rostro</h2><p>Durante el día acumulas contaminación, sebo, protector solar y maquillaje. Dormir sin limpiar obstruye poros y acelera el envejecimiento. La limpieza nocturna es innegociable.</p>",
+    "category": "Consejos",
+    "date": "2025-01-28",
+    "image": "assets/blog5.jpg",
+    "author": "Equipo Lumé"
+  },
+  {
+    "id": 6,
+    "title": "Cómo leer un INCI: entiende lo que realmente pones en tu piel",
+    "excerpt": "La lista de ingredientes en un producto cosmético se llama INCI y puede decirte mucho más de lo que imaginas. Aprende a leerla sin ser química.",
+    "content": "<p>El INCI (International Nomenclature of Cosmetic Ingredients) es el sistema estandarizado con el que se nombran los ingredientes en todos los cosméticos del mundo. Aprender a leerlo te da superpoderes a la hora de elegir productos.</p><h2>La regla del orden</h2><p>Los ingredientes se listan de mayor a menor concentración. Los primeros 5–6 ingredientes representan generalmente entre el 80% y el 95% de la fórmula. Si el ingrediente que te llamó la atención (vitamina C, retinol, ácido hialurónico) aparece al final de la lista, su concentración es mínima y probablemente no tendrá efecto real.</p><h2>Ingredientes que deberían hacerte dudar</h2><ul><li><strong>Alcohol denat / SD Alcohol:</strong> En alta concentración puede resecar e irritar la piel. Bien tolerado en pieles muy grasas, problemático para pieles secas o sensibles.</li><li><strong>Fragrance / Parfum:</strong> Término paraguas que puede esconder cientos de compuestos. Una de las principales causas de irritación y alergia en cosméticos.</li><li><strong>Parabenos (methylparaben, propylparaben):</strong> Conservantes efectivos pero en debate por posibles efectos endocrinos. Todos los productos Lumé son libres de parabenos.</li></ul><h2>Ingredientes que indican calidad</h2><ul><li><strong>Niacinamide:</strong> Niacinamida. Multifuncional: regula sebo, minimiza poros, unifica tono.</li><li><strong>Ascorbic acid:</strong> Vitamina C pura. Muy efectiva pero inestable; busca fórmulas con envase opaco o airless.</li><li><strong>Ceramide NP / AP / EOP:</strong> Cerámidas que refuerzan la barrera cutánea.</li><li><strong>Retinol / Retinal:</strong> Formas activas de vitamina A para renovación celular y antiedad.</li></ul><p>En Lumé publicamos el INCI completo de cada producto en nuestra web porque creemos que mereces saber exactamente qué estás poniendo en tu piel. La transparencia no es opcional para nosotros.</p>",
+    "category": "Ingredientes",
+    "date": "2025-01-05",
+    "image": "assets/blog6.jpg",
+    "author": "Equipo Lumé"
+  }
+]
